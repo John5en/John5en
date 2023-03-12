@@ -9,7 +9,7 @@ I am a Front End Developer student at Noroff, and I am about to finish my first 
 - Design
 - Content Management Systems
 
-Want to see what I am working on? Here is my portfolio webpage: https://dancing-tartufo-fef2d4.netlify.app/ 
+Want to see what I am working on? Here is my portfolio website: https://dancing-tartufo-fef2d4.netlify.app/ 
 
 <!--
 **John5en/John5en** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
