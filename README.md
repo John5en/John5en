@@ -1,6 +1,6 @@
 ### Hello
 
-I am a Front End Developer student at Noroff, and are about to finish my first year.
+I am a Front End Developer student at Noroff, and I am about to finish my first year.
 
 Want to see what i have been working on? Here is my portfolio webpage:
 
