@@ -1,4 +1,4 @@
-### Hi
+### Hello
 
 I am a Front End Developer student at Noroff, and are about to finish my first year.
 
