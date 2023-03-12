@@ -1,8 +1,8 @@
-### Hello
+## Hello 👋
 
-I am a Front End Developer student at Noroff, and I am about to finish my first year.
+I am a Front End Developer student at Noroff, and I am about to finish my first year of studies.
 
-I am learning:
+### I am learning:
 - HTML
 - CSS
 - Javascript
