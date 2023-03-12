@@ -2,7 +2,7 @@
 
 I am a Front End Developer student at Noroff, and I am about to finish my first year.
 
-Want to see what i have been working on? Here is my portfolio webpage: link. Sites are still works in progress, and may or may not recieve changes.
+Want to see what I am working on? Here is my portfolio webpage: link. 
 
 <!--
 **John5en/John5en** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
