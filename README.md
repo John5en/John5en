@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi
+
+I am a Front End Developer student at Noroff, and are about to finish my first year.
+
+Here are my portfolio with all projects i have been working on:
 
 <!--
 **John5en/John5en** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
