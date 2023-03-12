@@ -2,6 +2,13 @@
 
 I am a Front End Developer student at Noroff, and I am about to finish my first year.
 
+I am learning:
+- HTML
+- CSS
+- Javascript
+- Design
+- Content Management Systems
+
 Want to see what I am working on? Here is my portfolio webpage: link. 
 
 <!--
